@@ -1,0 +1,1 @@
+# Abdhi-CorePodSpecs
